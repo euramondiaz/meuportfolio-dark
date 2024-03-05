@@ -579,49 +579,48 @@ main {
    scroll-behavior: smooth;
    overscroll-behavior-inline: contain;
    scroll-snap-type: inline mandatory;
-   scrollbar-width: 20px; /* Define a largura da barra de rolagem */
+   scrollbar-width: 20px; 
  }
  
- /* Estilo da barra de rolagem para navegadores WebKit (Chrome, Safari) */
+ 
  .testimonials-list::-webkit-scrollbar {
-   width: 20px; /* Define a largura da barra de rolagem */
+   width: 20px; 
  }
  
- /* Estilo do botão de rolagem para navegadores WebKit (Chrome, Safari) */
+ 
  .testimonials-list::-webkit-scrollbar-button {
    display: block;
-   height: 20px; /* Define a altura do botão de rolagem */
+   height: 20px; 
  }
  
- /* Estilo do botão de rolagem para navegadores WebKit (Chrome, Safari) */
+ 
  .testimonials-list::-webkit-scrollbar-button:vertical:decrement {
-   background-color: #ccc; /* Define a cor do botão de rolagem para rolar para cima */
+   background-color: #ccc; 
  }
  
- /* Estilo do botão de rolagem para navegadores WebKit (Chrome, Safari) */
  .testimonials-list::-webkit-scrollbar-button:vertical:increment {
-   background-color: #ccc; /* Define a cor do botão de rolagem para rolar para baixo */
+   background-color: #ccc; 
  }
  
- /* Estilo da barra de rolagem para o Firefox */
+ 
  .testimonials-list {
-   scrollbar-color: #ccc transparent; /* Define a cor da barra de rolagem e do botão de rolagem */
+   scrollbar-color: #ccc transparent; 
  }
  
- /* Estilo do botão de rolagem para o Firefox */
+ 
  .testimonials-list {
-   scrollbar-width: auto; /* Define a largura da barra de rolagem para o Firefox */
+   scrollbar-width: auto; 
  }
  
  .testimonials-list::-webkit-scrollbar-track:horizontal {
-   border-top: 5px solid #ccc; /* Adicionando uma borda superior */
+   border-top: 5px solid #ccc; 
  }
  
  .testimonials-list::-webkit-scrollbar-track {
-   background-color: #f1f1f1; /* Cor do trilho da barra de rolagem */
+   background-color: #f1f1f1; 
  }
  .testimonials-list::-webkit-scrollbar-thumb:hover {
-   background-color: #555; /* Cor da alça da barra de rolagem ao passar o cursor */
+   background-color: #555; 
  }
  
  
