@@ -52,10 +52,10 @@ O projeto está estruturado da seguinte forma:
 
 Para utilizar o portfólio de Ramon Dias, siga estas instruções:
 
-1. Clone este repositório: git clone https://github.com/seu-usuario/portfolio-ramon-dias.git
+1. Clone este repositório: git clone https://github.com/euramondiaz/meuportfolio-dark
 
 
-2. Navegue até o diretório do projeto: cd nomme do projeto
+2. Navegue até o diretório do projeto: cd nome do projeto
 
 
 3. Abra o arquivo `index.html` em seu navegador da web para visualizar o portfólio.
@@ -77,6 +77,8 @@ Se você deseja contribuir com este projeto, siga estas etapas:
 ## 7. Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE), o que significa que você pode usá-lo livremente, modificar e distribuir, incluindo em projetos comerciais. Consulte o arquivo LICENSE para obter mais informações.
+
+Este projeto foi desenvolvido por [RAMON DIAS](https://github.com/euramondiaz).
  
 
 
