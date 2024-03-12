@@ -43,20 +43,9 @@ O portfólio de Ramon Dias utiliza uma combinação de tecnologias front-end e f
 
 O projeto está estruturado da seguinte forma:
 
-portfolio-ramon-dias/
-│
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── images/
-│   │   └── ...
-│   ├── js/
-│   │   └── script.js
-│   └── pdf/
-│       └── meu-cv.pdf
-│
-├── index.html
-└── README.md
+![preview img](assets/images/estrutura.png)
+
+
 
 
 ## 4. Instalação
