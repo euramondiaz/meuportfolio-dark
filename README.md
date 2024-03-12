@@ -1,5 +1,7 @@
 # Portfólio de Ramon Dias
 
+![preview img](assets/images/mockup.png)
+
 Este repositório contém o código-fonte do portfólio pessoal de Ramon Dias, um desenvolvedor front-end especializado em Angular, JavaScript e TypeScript. Este README.md fornece uma visão geral completa do projeto, incluindo informações sobre sua finalidade, estrutura do projeto, tecnologias utilizadas, instruções de instalação, uso, contribuição e muito mais.
 
 ## Sumário
