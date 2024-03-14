@@ -16,7 +16,7 @@ Este repositório contém o código-fonte do portfólio pessoal de Ramon Dias, u
 
 # Visão Geral
 
-O portfólio de Ramon Dias é um projeto web estático desenvolvido para apresentar as habilidades, experiência, projetos e informações de contato de Ramon Dias, um desenvolvedor front-end experiente. Este portfólio foi projetado com o objetivo de demonstrar suas competências técnicas, criatividade e profissionalismo, servindo como um ponto de referência para clientes em potencial, recrutadores e colegas de trabalho.
+O portfólio de Ramon Dias é um projeto web desenvolvido para apresentar as habilidades, experiência, projetos e informações de contato de Ramon Dias, um desenvolvedor front-end experiente. Este portfólio foi projetado com o objetivo de demonstrar suas competências técnicas, criatividade e profissionalismo, servindo como um ponto de referência para clientes em potencial, recrutadores e colegas de trabalho.
 
 ## Objetivos Principais
 
